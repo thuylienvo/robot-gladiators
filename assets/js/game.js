@@ -122,3 +122,6 @@ var startGame = function() {
     // play again
     startGame();
   };
+
+  // start first game when page loads
+startGame();
